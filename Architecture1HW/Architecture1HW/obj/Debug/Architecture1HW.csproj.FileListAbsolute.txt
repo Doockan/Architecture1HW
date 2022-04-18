@@ -1,0 +1,7 @@
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\bin\Debug\Architecture1HW.exe.config
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\bin\Debug\Architecture1HW.exe
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\bin\Debug\Architecture1HW.pdb
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\obj\Debug\Architecture1HW.csproj.AssemblyReference.cache
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\obj\Debug\Architecture1HW.csproj.CoreCompileInputs.cache
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\obj\Debug\Architecture1HW.exe
+C:\Users\Stroy\OneDrive\Рабочий стол\Architecture1HW\Architecture1HW\Architecture1HW\obj\Debug\Architecture1HW.pdb

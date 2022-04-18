@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Architecture1HW
 {    class Program
     {
+        //коментарий для пул реквеста =)
         static void Main(string[] args)
         {
             Console.WriteLine("Здравствуйте вас приветствует математическая программа");
